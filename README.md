@@ -24,6 +24,28 @@ This project implements an advanced system for detecting and analyzing constella
 
 ---
 
+
+
+## **Requirements**
+Ensure the following libraries are installed before running the project:
+
+- **Python** >= 3.8
+- **NumPy** >= 1.21.0
+- **OpenCV** >= 4.5.5
+- **NetworkX** >= 2.5
+- **Matplotlib** >= 3.4.3
+- **PyTorch** >= 1.10.0
+- **Tkinter** (usually included with Python)
+- **SciPy** >= 1.7.0
+
+Install the dependencies using pip:
+```bash
+pip install numpy opencv-python networkx matplotlib torch scipy
+```
+
+---
+
+
 ## **Performance**
 | **Metric**                    | **Value** |
 |--------------------------------|-----------|
